@@ -1,0 +1,27 @@
+{
+  "name": "tigeroptic",
+  "version": "1.0.0",
+  "description": "Personal website for Tim Campbell/Fibre Kitty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timetinytim/tigeroptic.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "node"
+  ],
+  "author": "Tim Campbell",
+  "license": " GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/timetinytim/tigeroptic/issues"
+  },
+  "homepage": "https://github.com/timetinytim/tigeroptic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
